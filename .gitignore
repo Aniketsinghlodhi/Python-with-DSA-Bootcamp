@@ -1,1 +1,21 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# macOS cache
 .DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
