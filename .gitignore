@@ -12,7 +12,7 @@ __pycache__/
 .vscode/
 
 # macOS cache
-.DS_Store
+.DS_Store   
 
 # Jupyter
 .ipynb_checkpoints/
